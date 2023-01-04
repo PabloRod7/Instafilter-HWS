@@ -1,5 +1,5 @@
 
-# Project13 - InstaFilter 
+#  InstaFilter  Hacking with Swift
 
 Project 13 of haking with swift
 
