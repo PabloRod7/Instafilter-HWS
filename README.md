@@ -1,7 +1,9 @@
 
 #  InstaFilter  Hacking with Swift
 
-Project 13 of haking with swift
+Make a photo manipulation program using Core Image filters and a UISlider.
+
+
 
 
 # Topics :
